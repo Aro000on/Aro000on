@@ -36,7 +36,3 @@
 - ✈️ Telegram: [@ron_dev](https://t.me/ron_dev)
 - 📧 Email: [me@iaron.dev](mailto:me@iaron.dev)
 - 🔗 Все соцсети: [rø.cc/link](https://rø.cc/link)
-
----
-
-*«Код - это способ превратить кофе в работающие вещи.»* ☕✨
