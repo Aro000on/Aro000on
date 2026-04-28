@@ -1,4 +1,4 @@
-# Привет! Я Ron (Aro000on) 👋
+# Привет! Я Aron 👋
 
 ### 🛠 Full-stack Explorer & Tech Enthusiast
 
