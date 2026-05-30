@@ -31,7 +31,6 @@
 
 ### 📫 Как меня найти?
 
-- 🌐 Личный сайт: [rø.cc](https://rø.cc)
 - ✈️ Telegram: [@ron_dev](https://t.me/ron_dev)
 - 📧 Email: [me@iaron.dev](mailto:me@iaron.dev)
-- 🔗 Все соцсети: [rø.cc/link](https://rø.cc/link)
+
