@@ -31,6 +31,5 @@
 
 ### 📫 Как меня найти?
 
-- ✈️ Telegram: [@ron_dev](https://t.me/ron_dev)
-- 📧 Email: [me@iaron.dev](mailto:me@iaron.dev)
+- 📧 Email: [space@iaron.dev](mailto:space@iaron.dev)
 
